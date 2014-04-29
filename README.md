@@ -1,4 +1,4 @@
 hammr
 =====
 
-Universal command-line tool for UForge
+Universal Python command-line tool for UForge
